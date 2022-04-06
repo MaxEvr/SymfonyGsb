@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/src/Controller/FichefraisController.php</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/src/DataFixtures/UtilisateurFixtures.php</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/src/Controller/EtatController.php</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/templates/fichefrais/index.html.twig</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/templates/etat/_form.html.twig</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/src/DataFixtures/EtatFixtures.php</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/templates/page_equipement/equipement.html.twig</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/templates/fichefrais/edit.html.twig</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/src/Controller/FraisforfaitController.php</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/templates/fraisforfait/new.html.twig</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/src/Entity/Etat.php</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/templates/fichefrais/show.html.twig</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/templates/etat/new.html.twig</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/templates/fraisforfait/_form.html.twig</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/templates/fichefrais/new.html.twig</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/templates/page_connexion/connexion.html.twig</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/src/Form/EtatType.php</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/templates/fraisforfait/edit.html.twig</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/templates/etat/_delete_form.html.twig</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/src/Controller/DefaultController.php</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/src/Form/FichefraisType.php</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/templates/base.html.twig</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/src/Form/FraisforfaitType.php</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/templates/page_lesDomaines/lesdomaines.html.twig</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/templates/fraisforfait/show.html.twig</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/templates/fichefrais/_delete_form.html.twig</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/templates/fichefrais/_form.html.twig</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/templates/fraisforfait/_delete_form.html.twig</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/templates/etat/index.html.twig</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/src/Entity/Categorie.php</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/src/Entity/Domaine.php</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/templates/page_lesutilisateurs/lesutilisateurs.html.twig</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/templates/etat/edit.html.twig</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/templates/fraisforfait/index.html.twig</file>
+            <file>file:/C:/wamp64/www/sfGSB1.0/sf/templates/etat/show.html.twig</file>
+        </group>
+    </open-files>
+</project-private>
